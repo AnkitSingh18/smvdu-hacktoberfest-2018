@@ -31,5 +31,5 @@ have learned contributing to open source and win your T-Shirt!
 
 [Inspired From](https://github.com/Hacktoberfest-2018/Hello-world)!
 
-:tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
-;p/ol.jm
+:tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tad
+price of freedom has always been high and willing to pay it!
